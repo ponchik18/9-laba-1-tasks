@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Учёба\оаип\лабораторная 9\Project1\Project1\Functions.h(19,7): warning C4101: c: неиспользованная локальная переменная
+D:\Учёба\оаип\лабораторная 9\Project1\Project1\Source.cpp(3,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учёба\оаип\лабораторная 9\Project1\Project1\Functions.h(41): warning C4172: возвращение адреса локальной или временной переменной : num_string
+  Project1.vcxproj -> D:\Учёба\оаип\лабораторная 9\Project1\Debug\Project1.exe
